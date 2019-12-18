@@ -1,5 +1,5 @@
 # Neuro-AI-Interface
-Use deep neural networks to synthesize the Neuroscore for evaluating Generative Adversarial Networks. Please refer details in our paper ["Neuroscore: A Brain-inspired Evaluation Metric for Generative Adversarial Networks"](https://arxiv.org/pdf/1905.04243.pdf) and ["Use of Neural Signals to Evaluate the Quality of Generative Adversarial Network Performance in Facial Image Generation"](https://arxiv.org/pdf/1811.04172.pdf)
+Use deep neural networks to synthesize the Neuroscore for evaluating Generative Adversarial Networks. Please refer details in our paper ["Neuroscore: A Brain-inspired Evaluation Metric for Generative Adversarial Networks"](https://arxiv.org/pdf/1905.04243.pdf) and ["Use of Neural Signals to Evaluate the Quality of Generative Adversarial Network Performance in Facial Image Generation"](https://link.springer.com/article/10.1007/s12559-019-09670-y)
 
 If you find this useful in your research, please consider citing:
 ```
