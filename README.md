@@ -32,14 +32,20 @@ scipy
 
 
 ## EEG data, GANs images and pretrained model
-The beamformed EEG data has been stored in the dropbox link: https://www.dropbox.com/sh/gn10k3qh2i1iq9a/AAD524mfagKemhW0fWK4m_doa?dl=0
+------------------------------------------------------------------------------------------------------------\
+-----------------------The followings are required for training the model-----------------------------------\
+------------------------------------------------------------------------------------------------------------\
+The beamformed EEG data has been stored in the dropbox link: 
+https://www.dropbox.com/sh/gn10k3qh2i1iq9a/AAD524mfagKemhW0fWK4m_doa?dl=0
 
-GAN images used for training: https://www.dropbox.com/sh/zw8i4f0o3m0242f/AAA94GlyFyy7ytjdiFvISX_ia?dl=0
+GAN images used for training: 
+https://www.dropbox.com/sh/zw8i4f0o3m0242f/AAA94GlyFyy7ytjdiFvISX_ia?dl=0
 
-Pre-trained model for initialization (Inception v3 and Mobilenet V2 used in this work): https://www.dropbox.com/sh/8hhcgbmdqa2206j/AAC9L1Cpbzggk6te7F0tYMbaa?dl=0
+Pre-trained model for initialization (Inception v3 and Mobilenet V2 used in this work): 
+https://www.dropbox.com/sh/8hhcgbmdqa2206j/AAC9L1Cpbzggk6te7F0tYMbaa?dl=0
 
 ------------------------------------------------------------------------------------------------------------\
------------------------This is our trained model, you do not need these to run the code----------------------\
+-----------------------This is our trained model, you do not need these to train the model------------------\
 ------------------------------------------------------------------------------------------------------------\
 Model trained by using EEG and without EEG: https://www.dropbox.com/sh/3q7hapmklp5rxvv/AAC6A-Hjt5kp8_PAt6Jo9ipsa?dl=0
 
