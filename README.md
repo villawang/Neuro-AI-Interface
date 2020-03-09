@@ -47,7 +47,8 @@ https://www.dropbox.com/sh/8hhcgbmdqa2206j/AAC9L1Cpbzggk6te7F0tYMbaa?dl=0
 ------------------------------------------------------------------------------------------------------------\
 -----------------------This is our trained model, you do not need these to train the model------------------\
 ------------------------------------------------------------------------------------------------------------\
-Model trained by using EEG and without EEG: https://www.dropbox.com/sh/3q7hapmklp5rxvv/AAC6A-Hjt5kp8_PAt6Jo9ipsa?dl=0
+Model trained by using EEG and without EEG: 
+https://www.dropbox.com/sh/3q7hapmklp5rxvv/AAC6A-Hjt5kp8_PAt6Jo9ipsa?dl=0
 
 ## Usage
 Download the pre-trained model as same directory as the code here. Download the GAN images and replace the **img_dir** in the code. Download the EEG data and replace **EEG_path** in the code. *model_eeg_single_trial.ipynb* demonstrates the model trained using EEG signal and *model_single_trial.ipynb* demonstrates training without using EEG signals. *see_p3_dist_cross_sub.ipynb* visualizes the P3 (recorded EEG signals) for different GAN images. 
