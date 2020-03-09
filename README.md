@@ -39,9 +39,9 @@ The beamformed EEG data has been stored in the dropbox link:
 https://www.dropbox.com/sh/gn10k3qh2i1iq9a/AAD524mfagKemhW0fWK4m_doa?dl=0
 
 GAN images used for training: 
-https://www.dropbox.com/sh/zw8i4f0o3m0242f/AAA94GlyFyy7ytjdiFvISX_ia?dl=0
+https://www.dropbox.com/s/3s1bgjf8o578llr/JANUS_imgs.zip?dl=0
 
-Pre-trained model for initialization (Inception v3 and Mobilenet V2 used in this work): 
+Pre-trained model for initialization (Inception V3 and mobilenet_v2_1.4_224 are used in this work): 
 https://www.dropbox.com/sh/8hhcgbmdqa2206j/AAC9L1Cpbzggk6te7F0tYMbaa?dl=0
 
 ------------------------------------------------------------------------------------------------------------\
