@@ -21,7 +21,8 @@ If you find this useful in your research, please consider citing:
 ```
 
 ## Requirements
-This is tensorflow version. A pytorch version might be released in the future if there are lots of demands for that. \
+*This is tensorflow version. A pytorch version might be released in the future if there are lots of demands for that.* \
+\
 python3\
 tensorflow 1.12.0 \
 tqdm \
