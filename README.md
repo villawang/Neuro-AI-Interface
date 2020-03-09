@@ -36,7 +36,7 @@ scipy
 -----------------------The followings are required for training the model-----------------------------------\
 ------------------------------------------------------------------------------------------------------------\
 The beamformed EEG data has been stored in the dropbox link: 
-https://www.dropbox.com/sh/gn10k3qh2i1iq9a/AAD524mfagKemhW0fWK4m_doa?dl=0
+https://www.dropbox.com/s/4up3wqskbkgrxeo/image_EEG_data.zip?dl=0
 
 GAN images used for training: 
 https://www.dropbox.com/s/3s1bgjf8o578llr/JANUS_imgs.zip?dl=0
