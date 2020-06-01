@@ -3,11 +3,12 @@ Use deep neural networks to synthesize the Neuroscore for evaluating Generative 
 
 If you find this useful in your research, please consider citing:
 ```
-  @article{wang2019neuroscore,
+  @article{wang2020synthetic,
     title={Synthetic-Neuroscore: Using a neuro-AI interface for evaluating generative adversarial networks},
     author={Wang, Zhengwei and She, Qi and Smeaton, Alan F and Ward, Tomas E and Healy, Graham},
-    journal={arXiv preprint arXiv:1905.04243},
-    year={2019}
+    journal={Neurocomputing},
+    year={2020},
+    publisher={Elsevier}
   }
   
   @article{wang2018use,
